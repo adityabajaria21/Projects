@@ -1,0 +1,11 @@
+flag: Whether the session was part of A,B or C treatment groups.
+Date: yyyy-mm-dd of the session.
+country: country of session.
+deviceType: phone or desktop
+sessionId: identified for a visit
+signups: Number of accounts created with SecureNet. 
+sessionDurationInSeconds: duration of session
+PageViews: Number of pages navigated throughout the session
+subscriptionsByCycle: {plan: amount of payed signups created} where plan indicates duration of plan signed up to in months. eg. {12:1.0} means 1 paid signup for a 12 month plan.
+subscriptionsTotal: number of payed signups created during the session. 
+subscriptionBillingsConvertedInCHFTotal: sum of price of subscriptions
