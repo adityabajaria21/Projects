@@ -1,0 +1,8 @@
+• Age : Age of the applicant
+• Car_type : Type of car the loan application was for, one of Convertible, Saloon and SUV
+• Loan_amount : Loan amount applied for
+• Deposit : Customer deposit
+• Area : Based on the postcode of the applicant whether they live in an urban or rural area
+• APR : APR on the loan
+• Application_outcome: Whether the loan was approved or declined
+• Converted: Whether the application approval converted into a funded loan
